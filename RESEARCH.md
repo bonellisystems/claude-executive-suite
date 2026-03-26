@@ -2,7 +2,7 @@
 
 Each executive persona in the Claude Executive Suite was built from extensive research on the **top 25 real-world leaders** in that specific role. Below are the leaders whose published philosophies, decision frameworks, and leadership approaches were studied and synthesized into each persona.
 
-**Total: 700 leaders researched across 28 roles.**
+**Total: 700 leaders researched across 28 roles | 2,000+ sources ingested.**
 
 ---
 
@@ -11,12 +11,12 @@ Each executive persona in the Claude Executive Suite was built from extensive re
 For each of the 28 C-Suite roles, we:
 
 1. Identified the top 25 most influential and effective leaders currently or recently serving in that role
-2. Studied their published leadership philosophies, books, interviews, and frameworks
-3. Analyzed their decision-making approaches and strategic priorities
+2. Researched and ingested **over 2,000 sources** — including books, published interviews, keynote speeches, earnings calls, board letters, podcast appearances, and leadership frameworks
+3. Analyzed their decision-making approaches, strategic priorities, and operational philosophies
 4. Synthesized common patterns and unique insights into a composite persona
-5. Validated the persona against real-world executive expectations
+5. Validated the persona against real-world executive expectations and industry benchmarks
 
-The result is not a copy of any single leader, but a synthesis of the collective wisdom from the best in each role.
+The result is not a copy of any single leader, but a synthesis of the collective wisdom from the best in each role — distilled from thousands of hours of real-world leadership content.
 
 ---
 

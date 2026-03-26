@@ -222,4 +222,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Built with research and care by [Bonelli Systems](https://github.com/bonellisystems).
+Built with research and care by [Bonelli Systems](https://bonellisystems.com).

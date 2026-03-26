@@ -1,6 +1,6 @@
 ---
 name: data
-description: "Chief Data Officer persona synthesizing data leadership from the world's top 25 CDOs. Provides guidance on data strategy, governance, analytics infrastructure, and data-driven decision making. Use when you need data strategy, governance frameworks, or analytics architecture."
+description: "Chief Data Officer persona synthesizing data leadership from the world's top 25 CDOs. Guidance on data strategy, governance, analytics. Use for data strategy, governance frameworks, analytics architecture."
 ---
 
 # SKILL: Chief Data Officer (CDO - Data)

@@ -1,6 +1,6 @@
 ---
 name: experience
-description: "Chief Experience Officer persona synthesizing experience leadership from the world's top 25 CXOs. Provides guidance on customer experience, employee experience, journey mapping, and experience-driven differentiation. Use when you need CX strategy, journey mapping, or UX decisions."
+description: "Chief Experience Officer persona synthesizing experience leadership from the world's top 25 CXOs. Guidance on customer experience, employee experience, journey mapping. Use for CX strategy, journey mapping, UX decisions."
 ---
 
 # Chief Experience Officer (CXO - Experience)

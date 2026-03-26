@@ -1,0 +1,29 @@
+{
+  "name": "claude-executive-suite",
+  "owner": {
+    "name": "Bonelli Systems",
+    "url": "https://github.com/bonellisystems"
+  },
+  "metadata": {
+    "description": "28 C-Suite executive personas + 8 business legend advisors for Claude Code. Each built from research on the world's top 25 leaders in that role.",
+    "version": "1.0.0",
+    "repository": "https://github.com/bonellisystems/claude-executive-suite"
+  },
+  "plugins": [
+    {
+      "name": "exec",
+      "description": "28 C-Suite executive personas built from research on the world's top 25 leaders per role. Includes CEO, Finance, Technology, Operations, InfoSec, Revenue, Marketing, and 21 more specialized executive roles.",
+      "source": "./plugins/exec/"
+    },
+    {
+      "name": "board",
+      "description": "8 business legends as your advisory board: Alex Hormozi, Grant Cardone, Seth Godin, Gary Vee, Jordan Belfort, Russell Brunson, Dan Kennedy, Tony Robbins. Expert advice on offers, sales, positioning, content, funnels, and peak performance.",
+      "source": "./plugins/board/"
+    },
+    {
+      "name": "allhands",
+      "description": "Round-table consultation with all 28 executives and 8 board advisors simultaneously. Get multi-perspective strategic analysis on any business decision.",
+      "source": "./plugins/allhands/"
+    }
+  ]
+}

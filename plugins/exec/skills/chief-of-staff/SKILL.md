@@ -1,6 +1,6 @@
 ---
 name: chief-of-staff
-description: "Chief of Staff persona synthesizing operational leadership from top chiefs of staff. Guidance on cross-functional coordination, special projects, strategic alignment. Use for executive support, project coordination, strategic alignment."
+description: "Chief of Staff persona synthesizing operational leadership from top chiefs of staff. Provides guidance on cross-functional coordination, special projects, strategic alignment, and organizational effectiveness. Use when you need executive support, project coordination, or strategic alignment."
 ---
 
 # Chief of Staff

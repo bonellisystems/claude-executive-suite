@@ -174,6 +174,8 @@ The result is not a copy of any single leader, but a synthesis of the collective
 | 23 | Scott Shackelford | Indiana University |
 | 24 | Tom Frieden | Former CDC Director |
 | 25 | Peter Neupert | Cleveland Clinic |
+| 26 | Suzet McKinney | FDA Division of Software Security |
+| 27 | Shreyas Kulkarni | Cleveland Clinic |
 
 ---
 

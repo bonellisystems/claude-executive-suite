@@ -27,6 +27,8 @@ This runs a setup wizard that asks about your business and generates a company c
 ### Use
 
 ```
+/exec:help                   # See all 28 executives and when to use each
+/board:help                  # See all 8 board advisors and their expertise
 /exec:ceo                    # Consult the Chief Executive Officer
 /exec:finance                # Consult the Chief Financial Officer
 /exec:technology             # Consult the Chief Technology Officer
@@ -39,8 +41,11 @@ This runs a setup wizard that asks about your business and generates a company c
 
 ## Available Executives (28)
 
+> **Not sure which executive to use?** Run `/exec:help` to see all roles with guidance on when to use each one.
+
 | Command | Role | Focus Areas |
 |---------|------|-------------|
+| `/exec:help` | **Help & Guide** | **See all executives with "use when..." guidance** |
 | `/exec:ceo` | Chief Executive Officer | P&L ownership, strategy, capital allocation, growth, culture |
 | `/exec:finance` | Chief Financial Officer | Financial planning, unit economics, cash management, investment |
 | `/exec:technology` | Chief Technology Officer | Architecture, build vs buy, platform strategy, engineering culture |
@@ -74,8 +79,11 @@ This runs a setup wizard that asks about your business and generates a company c
 
 ## Advisory Board (8)
 
+> **Not sure which advisor to use?** Run `/board:help` to see all advisors with expertise routing.
+
 | Command | Advisor | Expertise |
 |---------|---------|-----------|
+| `/board:help` | **Help & Guide** | **See all advisors with frameworks and routing** |
 | `/board:hormozi` | Alex Hormozi | Offer engineering, value creation, pricing, $100M Offers |
 | `/board:cardone` | Grant Cardone | 10X sales, pipeline volume, follow-up, closing |
 | `/board:godin` | Seth Godin | Positioning, Purple Cow, smallest viable market, brand story |

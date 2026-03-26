@@ -138,7 +138,7 @@ Each executive persona was built through extensive research on the **top 25 real
 
 The result is **700+ real leaders** synthesized across 28 roles, creating personas that reflect the collective wisdom of the world's best executives — not generic AI advice.
 
-The research data can be found in `Top_25_CLevel_Executives_by_Role.xlsx`.
+The full list of leaders researched for each role can be found in [RESEARCH.md](RESEARCH.md).
 
 ---
 
